@@ -49,3 +49,8 @@ body::before {
   z-index: -1;
   opacity: 0.12;
 }
+
+.main {
+  max-width: 1200px;
+  margin: auto;
+}
