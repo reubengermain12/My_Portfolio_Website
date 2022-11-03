@@ -36,6 +36,7 @@ body {
     var(--pink-light),
     var(--cyan-light)
   );
+  background-attachment: fixed;
   font-size: 16px;
   font-family: "Poppins", sans-serif;
   font-weight: 300;
