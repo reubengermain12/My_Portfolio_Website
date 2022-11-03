@@ -60,3 +60,6 @@ section {
   max-width: 1200px;
   margin: auto;
 }
+.container {
+  background-color: red;
+}
