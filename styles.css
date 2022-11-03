@@ -104,6 +104,8 @@ section {
 /*Section Title*/
 .section-title {
   background-color: red;
+  padding: 0 15px;
+  width: 100%;
 }
 
 /*Custom Scrollbar*/
