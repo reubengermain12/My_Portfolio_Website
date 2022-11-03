@@ -15,6 +15,7 @@
 }
 
 /*Global Settings*/
+
 * {
   box-sizing: border-box;
   padding: 0;
@@ -51,7 +52,7 @@ body::before {
   opacity: 0.12;
 }
 img {
-  max-width: 100%;
+  max-width: 40%;
   vertical-align: middle;
 }
 section {
@@ -65,5 +66,14 @@ section {
   margin: auto;
 }
 .container {
+  background-color: red;
+}
+
+/*Home Section*/
+
+.home-text {
+  background-color: blue;
+}
+.home-img {
   background-color: red;
 }
