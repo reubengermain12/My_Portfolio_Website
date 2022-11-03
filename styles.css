@@ -112,6 +112,15 @@ section {
   user-select: none;
   position: relative;
 }
+.btn::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  background-color: var(--main-color);
+}
 
 /*Home Section*/
 
