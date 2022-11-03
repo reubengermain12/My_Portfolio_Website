@@ -157,6 +157,9 @@ home-img {
   font-weight: 300;
   margin: 0 0 30px;
 }
+.home-text.btn {
+  margin: 0 15px 15px 0;
+}
 .home-img .img-box {
   max-width: 360px;
   background-color: var(--white-alpha-25);
