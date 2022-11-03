@@ -203,12 +203,12 @@ home-img {
 /*About Section*/
 .about-img {
   background-color: red;
-  width: 50%;
+  width: 40%;
   padding: 0 15px;
 }
 .about-text {
   background-color: blue;
-  width: 50%;
+  width: 60%;
   padding: 0 15px;
 }
 .about-img .img-box {
