@@ -49,7 +49,12 @@ body::before {
   z-index: -1;
   opacity: 0.12;
 }
-
+section {
+  background-color: var(--white-alpha-25);
+  border: 1px solid var(--white-alpha-40);
+  min-height: 90vh;
+  border-radius: 30px;
+}
 .main {
   max-width: 1200px;
   margin: auto;
