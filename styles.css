@@ -155,6 +155,7 @@ home-img {
   font-size: 20px;
   text-transform: capitalize;
   font-weight: 300;
+  margin: 0 0 30px;
 }
 .home-img .img-box {
   max-width: 360px;
