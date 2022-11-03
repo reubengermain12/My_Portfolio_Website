@@ -114,6 +114,7 @@ section {
   position: relative;
   overflow: hidden;
   vertical-align: middle;
+  transition: color 0.3s ease;
 }
 .btn::before {
   content: "";
