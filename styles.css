@@ -95,6 +95,9 @@ section {
 .align-items-center {
   align-items: center;
 }
+.hidden {
+  display: none !important;
+}
 
 /*Custom Scrollbar*/
 ::-webkit-scrollbar {
