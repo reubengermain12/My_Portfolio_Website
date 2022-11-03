@@ -130,6 +130,9 @@ section {
 .btn:hover::before {
   width: 100%;
 }
+.btn:hover {
+  color: var(--white);
+}
 
 /*Home Section*/
 
