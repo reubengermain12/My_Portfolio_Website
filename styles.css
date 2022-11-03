@@ -99,6 +99,11 @@ section {
   display: none !important;
 }
 
+/*Section Title*/
+.section-title {
+  background-color: red;
+}
+
 /*Custom Scrollbar*/
 ::-webkit-scrollbar {
   width: 5px;
