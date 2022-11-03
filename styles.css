@@ -217,3 +217,11 @@ home-img {
   margin: auto;
   border-radius: 10px;
 }
+.about-img .img-box img {
+  width: 100%;
+}
+.about-text h3 {
+  text-transform: capitalize;
+  font-size: 20px;
+  margin: 20px 0;
+}
