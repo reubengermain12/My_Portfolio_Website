@@ -121,9 +121,13 @@ section {
   left: 0;
   top: 0;
   height: 100%;
-  width: 100%;
+  width: 0%;
   background-color: var(--main-color);
   z-index: -1;
+  transition: width 0.3s ease;
+}
+.btn:hover::before {
+  width: 100%;
 }
 
 /*Home Section*/
