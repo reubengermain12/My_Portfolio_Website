@@ -198,3 +198,15 @@ home-img {
   width: 100%;
   border-radius: 50%;
 }
+
+/*About Section*/
+.about-img {
+  background-color: red;
+  width: 50%;
+  padding: 0 15px;
+}
+.about-text {
+  background-color: blue;
+  width: 50%;
+  padding: 0 15px;
+}
