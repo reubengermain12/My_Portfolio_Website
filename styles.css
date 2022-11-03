@@ -68,6 +68,10 @@ section {
 .container {
   background-color: red;
 }
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
 
 /*Home Section*/
 
