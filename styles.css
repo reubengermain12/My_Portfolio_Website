@@ -91,6 +91,14 @@ section {
 .align-items-center {
   align-items: center;
 }
+
+/*Buttons*/
+.btn {
+  line-height: 1.5;
+  background-color: var(--white-alpha-25);
+  padding: 10px 28px;
+}
+
 /*Home Section*/
 
 .home-section {
