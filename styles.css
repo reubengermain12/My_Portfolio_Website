@@ -237,6 +237,9 @@ home-img {
   margin: 0 10px 10px 0;
   border-radius: 20px;
 }
+.about-tabs {
+  margin-top: 20px;
+}
 .about-tabs .tab-item {
   padding: 2px 0;
   background-color: transparent;
@@ -245,4 +248,6 @@ home-img {
   display: inline-block;
   color: var(--blue-dark);
   font-size: 20px;
+  cursor: pointer;
+  font-weight: 500;
 }
