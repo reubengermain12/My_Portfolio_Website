@@ -111,6 +111,7 @@ home-img {
 .home-text h2 {
   font-size: 20px;
   text-transform: capitalize;
+  font-weight: 300;
 }
 .home-img .img-box {
   max-width: 360px;
