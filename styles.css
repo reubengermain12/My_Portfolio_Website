@@ -32,6 +32,11 @@ body {
     var(--pink-light),
     var(--cyan-light)
   );
+  font-size: 16px;
+  color: var(--blue-dark);
+  line-height: 1.5;
+  overflow-x: hidden;
+  -webkit-tap-highlight-color: transparent;
 }
 body::before {
   content: "";
