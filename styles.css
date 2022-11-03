@@ -82,12 +82,6 @@ section {
   display: flex;
   padding: 120px 0;
 }
-.home-text {
-  background-color: blue;
-}
-.home-img {
-  background-color: green;
-}
 .home-text,
 home-img {
   width: 50%;
