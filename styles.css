@@ -78,6 +78,9 @@ section {
 }
 /*Home Section*/
 
+.home-section {
+  display: flex;
+}
 .home-text {
   background-color: blue;
 }
