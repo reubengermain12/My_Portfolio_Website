@@ -300,6 +300,9 @@ home-img {
   margin: 0 0 10px;
 }
 .about-text .timeline-item h4 {
+  font-size: 18px;
+  text-transform: capitalize;
+  margin: 0 0 10px;
 }
 .about-text .timeline-item h4 span {
 }
