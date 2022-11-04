@@ -284,6 +284,18 @@ home-img {
   opacity: 1;
   cursor: auto;
 }
+.about-text .timeline {
+  position: relative;
+}
+.about-text .timeline::before {
+  content: "";
+  position: absolute;
+  height: 100%;
+  width: 1px;
+  top: 0;
+  left: 5px;
+  background-color: var(--main-color);
+}
 .about-text .tab-content {
   padding: 40px 0;
 }
