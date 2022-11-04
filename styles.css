@@ -399,4 +399,7 @@ home-img {
   display: flex;
   align-items: center;
   justify-content: center;
+  position: absolute;
+  right: -40px;
+  top: -40px;
 }
