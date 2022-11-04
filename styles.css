@@ -302,6 +302,15 @@ home-img {
 .about-text .timeline-item {
   margin-bottom: 30px;
 }
+.about-text .timeline-item::before {
+  content: "";
+  position: absolute;
+  height: 11px;
+  width: 11px;
+  background-color: var(--main-color);
+  left: 0;
+  top: 16px;
+}
 .about-text .timeline-item:last-child {
   margin-bottom: 0;
 }
