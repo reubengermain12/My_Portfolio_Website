@@ -403,3 +403,6 @@ home-img {
   right: -40px;
   top: -40px;
 }
+.pp-thumbnail img {
+  border-radius: 10px;
+}
