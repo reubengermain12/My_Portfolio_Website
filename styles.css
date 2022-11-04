@@ -392,3 +392,11 @@ home-img {
   border: 1px solid var(--white-alpha-40);
   backdrop-filter: var(--backdrop-filter-blur);
 }
+.pp-header .btn {
+  height: 40px;
+  width: 40px;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
