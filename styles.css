@@ -301,6 +301,8 @@ home-img {
 }
 .about-text .timeline-item {
   margin-bottom: 30px;
+  position: relative;
+  padding: 10px 0 0 40px;
 }
 .about-text .timeline-item::before {
   content: "";
