@@ -340,6 +340,9 @@ home-img {
 }
 
 /*Portfolio Section*/
+.portfolio-section {
+  padding-bottom: 50px;
+}
 .portfolio-item {
   width: calc((100% / 3) - 30px);
   margin: 0 15px 30px;
