@@ -298,6 +298,7 @@ home-img {
 }
 .about-text .tab-content {
   padding: 40px 0;
+  display: none;
 }
 .about-text .timeline-item {
   margin-bottom: 30px;
