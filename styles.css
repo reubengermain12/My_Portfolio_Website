@@ -312,6 +312,7 @@ home-img {
   background-color: var(--main-color);
   left: 0;
   top: 16px;
+  border-radius: 50%;
 }
 .about-text .timeline-item:last-child {
   margin-bottom: 0;
