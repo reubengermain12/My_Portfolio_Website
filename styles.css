@@ -374,10 +374,14 @@ home-img {
   height: 100%;
   width: 100%;
   z-index: 200;
+  overflow-y: auto;
 }
 .pp-inner {
   min-height: 100vh;
   padding: 40px 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .pp-content {
   background-color: var(--white-alpha-25);
