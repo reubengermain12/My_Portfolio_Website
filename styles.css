@@ -74,6 +74,9 @@ img {
   max-width: 100%;
   vertical-align: middle;
 }
+ul {
+  list-style: none;
+}
 section {
   background-color: var(--white-alpha-25);
   border: 1px solid var(--white-alpha-40);
