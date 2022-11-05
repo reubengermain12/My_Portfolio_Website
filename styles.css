@@ -417,3 +417,6 @@ home-img {
 .pp-body description {
   margin-bottom: 20px;
 }
+.pp-body .general-info li {
+  margin-bottom: 10px;
+}
