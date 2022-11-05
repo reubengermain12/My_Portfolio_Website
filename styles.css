@@ -377,6 +377,7 @@ home-img {
   height: 100%;
   width: 100%;
   z-index: 200;
+  visibility: hidden;
   overflow-y: auto;
 }
 .pp-inner {
