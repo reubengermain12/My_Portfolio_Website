@@ -378,6 +378,9 @@ home-img {
   width: 100%;
   z-index: 200;
   visibility: hidden;
+}
+.portfolio-popup open {
+  visibility: visible;
   overflow-y: auto;
 }
 .pp-inner {

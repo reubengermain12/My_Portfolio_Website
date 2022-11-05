@@ -12,3 +12,13 @@ tabsContainer.addEventListener("click", (e) =>{
     aboutSection.querySelector(target).classList.add("active");
   }
 });
+
+/*Portfolio Item Details Popup*/
+document.addEventListener("click", (e) =>{
+  if(e.target.classList.contains("view-project-btn")){
+    togglePortfolioPopup();
+  }
+})
+function togglePortfolioPopup(){
+  document.querySelector(".portfolio-popup").classList.toggle("open");
+}
