@@ -27,6 +27,11 @@ function togglePortfolioPopup(){
 }
 document.querySelector(".pp-close").addEventListener("click, togglePortfolioPopup");
 
+//hide popup when clicking outside of it
+document.addEventListener("click", (e) =>{
+  console.log(e.target);
+})
+
 function portfolioItemDetails(portfolioItem){
   document.querySelector(".pp-thumbnail img").src =
   portfolioItem.querySelector(".portfolio-item-thumbnail img").src;
