@@ -30,4 +30,10 @@ document.querySelector(".pp-close").addEventListener("click, togglePortfolioPopu
 function portfolioItemDetails(portfolioItem){
   document.querySelector(".pp-thumbnail img").src =
   portfolioItem.querySelector(".portfolio-item-thumbnail img").src;
+
+  document.querySelector(".pp-header h3").innerHTML =
+  portfolioItem.querySelector(".portfolio-item-title").innerHTML;
+
+  document.querySelector(".pp-body").innerHTML =
+  portfolioItem.querySelector(".portfolio-item-details").innerHTML;
 }
